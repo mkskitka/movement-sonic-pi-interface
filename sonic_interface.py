@@ -46,8 +46,9 @@ sleep_intervals = ["0.25", "0.5", "0.75"]
 i = 0
 
 def enter():
+    time.sleep(.3)
     press('return')
-    time.sleep(.1)
+    time.sleep(.3)
 
 def play_note(): 
 
@@ -83,6 +84,7 @@ def do_times(n):
     write(str(n) + ".times do")
     enter()
     write("play (scale :e3, :minor_pentatonic).pick, release: 0.1")
+    time.sleep(1)
     enter()
     write("sleep 0.125")
     enter()
