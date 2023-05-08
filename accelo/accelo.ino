@@ -18,7 +18,7 @@ String SIDE_JUMP = "side_jump";
 String FORWARD_JUMP = "forward_jump";
 
 // boolean to start program on raspberry pi side
-bool start_sonic_pi = false; 
+//bool start_sonic_pi = false; 
 
 
 

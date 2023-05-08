@@ -64,8 +64,9 @@ void detectJump(float xAcc, float yAcc, float zAcc) {
         //Serial.println(acc_pos);
         // if jump twice and program hasn't started yet.
         if(millis() - lastActionMillis > ACTION_TIME_BUFFER) {
-          if(start_sonic_pi == false && lastAction == UP_JUMP) {
+          if(lastAction == UP_JUMP) {
             Serial.println("start");
+//             start_sonic_pi = true; 
           }
           Serial.println(UP_JUMP);
           lastActionMillis = millis();
