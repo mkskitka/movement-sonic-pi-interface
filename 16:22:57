@@ -1,0 +1,49 @@
+alt shift n
+16:22:57:live loop :0 do
+16:22:57:return
+16:22:57:enter
+16:22:57:return
+16:22:57:sample :drum_bass_hard16:22:57:return
+16:22:57:enter
+16:22:57:sleep 0.75
+16:22:57:return
+16:22:57:enter
+16:22:57:end
+16:22:57:return
+16:22:57:enter
+16:22:57:alt r
+16:22:57:use_synth :blade16:22:57:return
+16:22:57:return
+16:22:57:enter
+16:22:57:play 74
+16:22:57:return
+16:22:57:enter
+16:22:57:sleep 0.5
+16:22:57:return
+16:22:57:enter
+16:22:57:alt r
+16:22:57:use_synth :blade
+16:22:57:return
+16:22:57:return
+16:22:57:enter
+16:22:57:play 71
+16:22:57:return
+16:22:57:enter
+16:22:57:sleep 0.75
+16:22:57:return
+16:22:57:enter
+16:22:57:alt r
+alt shift n
+16:22:57:live loop :1 do
+16:22:57:return
+16:22:57:enter
+16:22:57:return
+16:22:57:sample :drum_bass_hard16:22:57:return
+16:22:57:enter
+16:22:57:sleep 0.5
+16:22:57:return
+16:22:57:enter
+16:22:57:end
+16:22:57:return
+16:22:57:enter
+16:22:57:alt r
