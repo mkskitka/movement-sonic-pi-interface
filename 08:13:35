@@ -1,0 +1,204 @@
+alt shift n
+08:13:35:use_random_seed 338.0
+08:13:35:return
+08:13:35:enter
+08:13:35:338.0.times do
+08:13:35:return
+08:13:35:enter
+08:13:35:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.75
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+08:13:35:alt a
+08:13:35:delete
+08:13:35:alt s
+alt shift n
+08:13:35:live loop :0 do
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:sample :drum_bass_hard08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.75
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+alt shift n
+08:13:35:live loop :1 do
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:sample :drum_bass_hard08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.5
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+alt shift n
+08:13:35:use_random_seed 396.0
+08:13:35:return
+08:13:35:enter
+08:13:35:396.0.times do
+08:13:35:return
+08:13:35:enter
+08:13:35:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.5
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+alt shift n
+08:13:35:live loop :2 do
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:sample :drum_bass_hard08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.5
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+alt shift n
+08:13:35:live loop :3 do
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:sample :drum_bass_hard08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.75
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+alt shift n
+08:13:35:live loop :4 do
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:sample :drum_bass_hard08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.75
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+alt shift n
+08:13:35:live loop :5 do
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:sample :drum_bass_hard08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.75
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+08:13:35:alt r
+08:13:35:alt r
+08:13:35:use_synth :blade08:13:35:return
+08:13:35:return
+08:13:35:enter
+08:13:35:play 63
+08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.5
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+08:13:35:use_synth :blade08:13:35:return
+08:13:35:return
+08:13:35:enter
+08:13:35:play 71
+08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.25
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+alt shift n
+08:13:35:use_random_seed 251.0
+08:13:35:return
+08:13:35:enter
+08:13:35:251.0.times do
+08:13:35:return
+08:13:35:enter
+08:13:35:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.25
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+08:13:35:alt r
+08:13:35:use_synth :blade08:13:35:return
+08:13:35:return
+08:13:35:enter
+08:13:35:play 69
+08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.25
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+08:13:35:alt r
+08:13:35:alt a
+08:13:35:delete
+08:13:35:alt s
+08:13:35:alt r
+alt shift n
+08:13:35:use_random_seed 317.0
+08:13:35:return
+08:13:35:enter
+08:13:35:317.0.times do
+08:13:35:return
+08:13:35:enter
+08:13:35:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:13:35:return
+08:13:35:enter
+08:13:35:sleep 0.25
+08:13:35:return
+08:13:35:enter
+08:13:35:return
+08:13:35:enter
+08:13:35:end
+08:13:35:return
+08:13:35:enter
+08:13:35:alt r
+08:13:35:alt a
+08:13:35:delete
+08:13:35:alt s

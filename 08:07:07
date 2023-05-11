@@ -1,0 +1,127 @@
+08:07:07:alt a
+08:07:07:delete
+08:07:07:alt s
+alt shift n
+08:07:07:live loop :0 do
+08:07:07:return
+08:07:07:enter
+08:07:07:return
+08:07:07:sample :drum_bass_hard08:07:07:return
+08:07:07:enter
+08:07:07:sleep 0.75
+08:07:07:return
+08:07:07:enter
+08:07:07:end
+08:07:07:return
+08:07:07:enter
+08:07:07:alt r
+alt shift n
+08:07:07:use_random_seed 274.0
+08:07:07:return
+08:07:07:enter
+08:07:07:274.0.times do
+08:07:07:return
+08:07:07:enter
+08:07:07:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:07:07:return
+08:07:07:enter
+08:07:07:sleep 0.75
+08:07:07:return
+08:07:07:enter
+08:07:07:return
+08:07:07:enter
+08:07:07:end
+08:07:07:return
+08:07:07:enter
+08:07:07:alt r
+alt shift n
+08:07:07:use_random_seed 346.0
+08:07:07:return
+08:07:07:enter
+08:07:07:346.0.times do
+08:07:07:return
+08:07:07:enter
+08:07:07:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:07:07:return
+08:07:07:enter
+08:07:07:sleep 0.75
+08:07:07:return
+08:07:07:enter
+08:07:07:return
+08:07:07:enter
+08:07:07:end
+08:07:07:return
+08:07:07:enter
+08:07:07:alt r
+08:07:07:alt a
+08:07:07:delete
+08:07:07:alt s
+08:07:07:alt a
+08:07:07:delete
+08:07:07:alt s
+alt shift n
+08:07:07:use_random_seed 305.0
+08:07:07:return
+08:07:07:enter
+08:07:07:305.0.times do
+08:07:07:return
+08:07:07:enter
+08:07:07:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:07:07:return
+08:07:07:enter
+08:07:07:sleep 0.25
+08:07:07:return
+08:07:07:enter
+08:07:07:return
+08:07:07:enter
+08:07:07:end
+08:07:07:return
+08:07:07:enter
+08:07:07:alt r
+08:07:07:alt a
+08:07:07:delete
+08:07:07:alt s
+08:07:07:alt r
+alt shift n
+08:07:07:live loop :1 do
+08:07:07:return
+08:07:07:enter
+08:07:07:return
+08:07:07:sample :drum_bass_hard08:07:07:return
+08:07:07:enter
+08:07:07:sleep 0.75
+08:07:07:return
+08:07:07:enter
+08:07:07:end
+08:07:07:return
+08:07:07:enter
+08:07:07:alt r
+alt shift n
+08:07:07:use_random_seed 308.0
+08:07:07:return
+08:07:07:enter
+08:07:07:308.0.times do
+08:07:07:return
+08:07:07:enter
+08:07:07:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:07:07:return
+08:07:07:enter
+08:07:07:sleep 0.5
+08:07:07:return
+08:07:07:enter
+08:07:07:return
+08:07:07:enter
+08:07:07:end
+08:07:07:return
+08:07:07:enter
+08:07:07:alt r
+alt shift n
+08:07:07:use_random_seed 272.0
+08:07:07:return
+08:07:07:enter
+08:07:07:272.0.times do
+08:07:07:return
+08:07:07:enter
+08:07:07:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:07:07:return
+08:07:07:enter

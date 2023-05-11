@@ -1,0 +1,19 @@
+08:05:44:alt r
+08:05:44:alt r
+alt shift n
+08:05:44:use_random_seed 266.0
+08:05:44:return
+08:05:44:enter
+08:05:44:266.0.times do
+08:05:44:return
+08:05:44:enter
+08:05:44:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+08:05:44:return
+08:05:44:enter
+08:05:44:sleep 0.5
+08:05:44:return
+08:05:44:enter
+08:05:44:return
+08:05:44:enter
+08:05:44:end
+08:05:44:return

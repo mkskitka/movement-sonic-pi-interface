@@ -197,6 +197,7 @@ def do_times(n):
     write("use_random_seed " + str(n))
     print_time() 
     f.write("use_random_seed " + str(n) + "\n")
+    time.sleep(.3)
     enter()
     print_time() 
     f.write("enter\n")
