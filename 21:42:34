@@ -1,0 +1,29 @@
+alt shift n
+21:42:34:ctrl k
+21:42:34:command = true
+21:42:34:return
+enter21:42:34:alt r
+alt shift n
+21:42:34:use_random_seed 511.0
+21:42:34:return
+21:42:34:enter
+21:42:34:511.0.times do
+21:42:34:return
+21:42:34:enter
+21:42:34:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+21:42:34:return
+21:42:34:enter
+21:42:34:sleep 0.5
+21:42:34:return
+21:42:34:enter
+21:42:34:return
+21:42:34:enter
+21:42:34:end
+21:42:34:return
+21:42:34:enter
+21:42:34:alt r
+alt shift n
+21:42:34:ctrl k
+21:42:34:command = true
+21:42:34:return
+enter21:42:34:alt r

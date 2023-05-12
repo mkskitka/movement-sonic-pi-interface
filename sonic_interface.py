@@ -261,15 +261,6 @@ while 1:
             
         if(command == SIDE_JUMP):
             print("detected ", SIDE_JUMP, " -> if:" + if_statement, " , ic: ", if_statement_conditional)
-            play_note(True)
-           #if if_statement == STARTED:
-               #if_statement = IMPLEMENTED
-               #if_statement_conditional = SIDE_JUMP
-               #write_if(SIDE_JUMP)
-            #elif if_statement == IMPLEMENTED and if_statement_conditional == SIDE_JUMP:
-                #write_if_conditional(SIDE_JUMP)
-            #else: 
-                #print("")
         if(command == FORWARD_JUMP):
             print("detected ", FORWARD_JUMP, " -> " + if_statement, " , ic: ", if_statement_conditional)
             play_note(False)

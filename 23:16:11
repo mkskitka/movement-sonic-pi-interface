@@ -1,0 +1,50 @@
+23:16:11:alt a
+23:16:11:delete
+23:16:11:alt s
+23:16:11:alt r
+alt shift n
+23:16:11:live loop :0 do
+23:16:11:return
+23:16:11:enter
+23:16:11:return
+23:16:11:sample :drum_bass_hard23:16:11:return
+23:16:11:enter
+23:16:11:sleep 0.25
+23:16:11:return
+23:16:11:enter
+23:16:11:end
+23:16:11:return
+23:16:11:enter
+23:16:11:alt r
+23:16:11:alt a
+23:16:11:delete
+23:16:11:alt s
+23:16:11:alt a
+23:16:11:delete
+23:16:11:alt s
+23:16:11:alt a
+23:16:11:delete
+23:16:11:alt s
+23:16:11:alt a
+23:16:11:delete
+23:16:11:alt s
+alt shift n
+23:16:11:live loop :1 do
+23:16:11:return
+23:16:11:enter
+23:16:11:return
+23:16:11:sample :drum_bass_hard23:16:11:return
+23:16:11:enter
+23:16:11:sleep 0.75
+23:16:11:return
+23:16:11:enter
+23:16:11:end
+23:16:11:return
+23:16:11:enter
+23:16:11:alt r
+23:16:11:alt a
+23:16:11:delete
+23:16:11:alt s
+23:16:11:alt a
+23:16:11:delete
+23:16:11:alt s

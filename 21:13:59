@@ -1,0 +1,128 @@
+21:13:59:alt r
+21:13:59:use_synth :blade21:13:59:return
+21:13:59:return
+21:13:59:enter
+21:13:59:play 74
+21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.5
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+alt shift n
+21:13:59:use_random_seed 334.0
+21:13:59:return
+21:13:59:enter
+21:13:59:334.0.times do
+21:13:59:return
+21:13:59:enter
+21:13:59:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.25
+21:13:59:return
+21:13:59:enter
+21:13:59:return
+21:13:59:enter
+21:13:59:end
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+alt shift n
+21:13:59:use_random_seed 321.0
+21:13:59:return
+21:13:59:enter
+21:13:59:321.0.times do
+21:13:59:return
+21:13:59:enter
+21:13:59:play (scale :e3, :minor_pentatonic).pick, release: 0.1
+21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.5
+21:13:59:return
+21:13:59:enter
+21:13:59:return
+21:13:59:enter
+21:13:59:end
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+21:13:59:alt a
+21:13:59:delete
+21:13:59:alt s
+alt shift n
+21:13:59:live loop :0 do
+21:13:59:return
+21:13:59:enter
+21:13:59:return
+21:13:59:sample :drum_bass_hard21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.5
+21:13:59:return
+21:13:59:enter
+21:13:59:end
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+21:13:59:alt a
+21:13:59:delete
+21:13:59:alt s
+21:13:59:use_synth :blade21:13:59:return
+21:13:59:return
+21:13:59:enter
+21:13:59:play 65
+21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.5
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+21:13:59:alt a
+21:13:59:delete
+21:13:59:alt s
+21:13:59:alt r
+21:13:59:alt a
+21:13:59:delete
+21:13:59:alt s
+alt shift n
+21:13:59:live loop :1 do
+21:13:59:return
+21:13:59:enter
+21:13:59:return
+21:13:59:sample :drum_bass_hard21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.5
+21:13:59:return
+21:13:59:enter
+21:13:59:end
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+alt shift n
+21:13:59:live loop :2 do
+21:13:59:return
+21:13:59:enter
+21:13:59:return
+21:13:59:sample :drum_bass_hard21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.75
+21:13:59:return
+21:13:59:enter
+21:13:59:end
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+21:13:59:use_synth :blade21:13:59:return
+21:13:59:return
+21:13:59:enter
+21:13:59:play 75
+21:13:59:return
+21:13:59:enter
+21:13:59:sleep 0.25
+21:13:59:return
+21:13:59:enter
+21:13:59:alt r
+21:13:59:alt a
+21:13:59:delete
+21:13:59:alt s
+21:13:59:alt r
